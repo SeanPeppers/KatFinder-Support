@@ -1,0 +1,2 @@
+# KatFinder-Support
+privacy policy
